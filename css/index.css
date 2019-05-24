@@ -1,0 +1,13 @@
+body {
+  background-color: teal;
+  text-shadow: 1px 1px 10px
+  color: blue;
+  font-family: monospace ;
+
+
+}
+
+.heading {
+  font-size: 3em;
+  border-bottom: 1px solid ;
+}
